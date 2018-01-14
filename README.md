@@ -6,4 +6,5 @@ The first course of the deeplearning.ai's [Deep Learning Specialization](https:/
 	* Python Basics with numpy
 	* Logistic Regression with a Neural Network mindset
 * WEEK 3 - Shallow neural networks
+	* Planar data classification with a hidden layer
 * WEEK 4 - Deep Neural Networks
