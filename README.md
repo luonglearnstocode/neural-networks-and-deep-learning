@@ -8,3 +8,5 @@ The first course of the deeplearning.ai's [Deep Learning Specialization](https:/
 * WEEK 3 - Shallow neural networks
 	* [Planar data classification with a hidden layer](http://nbviewer.jupyter.org/github/luonglearnstocode/neural-networks-and-deep-learning/blob/master/week3-shallow-neural-networks/Planar-data-classification-with-one-hidden-layer-v4.ipynb)
 * WEEK 4 - Deep Neural Networks
+	* [Building your Deep Neural Network: Step by Step](http://nbviewer.jupyter.org/github/luonglearnstocode/neural-networks-and-deep-learning/blob/master/week3-shallow-neural-networks/Building-your-Deep-Neural-Network-Step-by-Step-v5.ipynb)
+	* [Deep Neural Network - Application](http://nbviewer.jupyter.org/github/luonglearnstocode/neural-networks-and-deep-learning/blob/master/week3-shallow-neural-networks/Deep-Neural-Network-Application-v3.ipynb)
